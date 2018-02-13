@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{RFC0826}
+Plummer, D.~C. \emph{Ethernet Address Resolution Protocol: Or converting
+  network protocol addresses to 48.bit Ethernet address for transmission on
+  Ethernet hardware} STD~37 RFC Editor November 1982
+  \urlprefix\url{http://www.rfc-editor.org/rfc/rfc826.txt}
+  \url{http://www.rfc-editor.org/rfc/rfc826.txt}.
+
+\bibitem{Wiki:ARP}
+Wikipedia \emph{Address Resolution Protocol} online
+  \urlprefix\url{https://en.wikipedia.org/wiki/Address_Resolution_Protocol}.
+
+\bibitem{microsoft:arp_cache}
+Corporation, M. \emph{ARP Cache} online
+  \urlprefix\url{https://technet.microsoft.com/en-us/library/cc958841(en-us).aspx}.
+
+\bibitem{microsoft:arp_process}
+Corporation, M. \emph{ARP Process} online
+  \urlprefix\url{https://technet.microsoft.com/en-us/library/cc940010.aspx}.
+
+\bibitem{RFC7707}
+Gont, F.; Chown, T. \emph{Network Reconnaissance in IPv6 Networks} RFC 7707 RFC
+  Editor March 2016.
+
+\end{thebibliography}
